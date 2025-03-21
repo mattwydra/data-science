@@ -1,0 +1,23 @@
+.chart-container {
+    height: 400px;
+    margin-bottom: 30px;
+}
+
+.filter-panel {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.saved-filter {
+    cursor: pointer;
+    padding: 5px;
+    margin: 5px 0;
+    background-color: #e9ecef;
+    border-radius: 3px;
+}
+
+.saved-filter:hover {
+    background-color: #dee2e6;
+}
