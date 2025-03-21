@@ -1,0 +1,24 @@
+// File structure for the project
+/*
+personal-finance-tracker/
+│
+├── server/
+│   ├── server.js        // Express server setup
+│   ├── database.js      // SQLite database setup
+│   └── routes/
+│       ├── auth.js      // Authentication routes (for future)
+│       └── transactions.js  // Transaction CRUD operations
+│
+├── client/
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       │   ├── Dashboard.jsx        // Main dashboard
+│       │   ├── TransactionForm.jsx  // Form for adding transactions
+│       │   ├── TransactionList.jsx  // List of transactions
+│       │   └── Charts.jsx           // Visualization components
+│       ├── App.jsx
+│       └── index.jsx
+│
+└── package.json
+*/
